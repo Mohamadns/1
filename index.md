@@ -1,6 +1,6 @@
 ## Welcome
 
-This is my [page](https://github.com/Mohamadns/repository/blob/master/index.md) If you have any enquiries contact me at my [email](mkns9000@gmail.com) Thank you very much! 
+This is my [page](https://github.com/Mohamadns/repository/blob/master/index.md) If you have any enquiries contact me at my [email](mkialnasser50@sm.imamu.edu.sa) Thank you very much! 
 
 
 ### Biogrophy
@@ -10,6 +10,6 @@ My name is _Mohamad Khaled Alnasser_. I'm a **Computer Science** student at **_I
 ### My noteble merits
 ```
 - I'm a fast learner.
-- I like to learn about new things at every chance I can get.
+- I like learning new things at every chance I can get.
 - I'm a perfectionist.
 ```
