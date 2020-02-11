@@ -1,11 +1,11 @@
 ## Welcome
 
-This is my [page](https://github.com/Mohamadns/repository/blob/master/index.md) If you have any enquiries contact me at my [email](mkialnasser50@sm.imamu.edu.sa) Thank you very much! 
+This is my [page](https://github.com/Mohamadns/repository/blob/master/index.md) If you have any enquiries contact me at my email address mkialnasser50@sm.imamu.edu.sa Thank you very much! 
 
 
 ### Biogrophy
 
-My name is _Mohamad Khaled Alnasser_. I'm a **Computer Science** student at **_Imam University_**. I like to code and technology in general, been liking it since I was a little kid and growing up I adored it more and more.
+My name is _Mohamad Khaled Alnasser_. I'm a **Computer Science** student at **_Imam University_**. When I was a little kid I was fascinated by technology and growing up with technology I've tried coding and got hooked instantly.
 
 ### My noteble merits
 ```
