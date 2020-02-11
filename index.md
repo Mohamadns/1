@@ -1,6 +1,6 @@
 ## Welcome
 
-This is my [page](https://github.com/Mohamadns/repository/blob/master/index.md) If you have any enquiries contact me at my email address mkialnasser50@sm.imamu.edu.sa Thank you very much! 
+This is my [page](Mohamadns.github.io) If you have any enquiries contact me at my email address mkialnasser50@sm.imamu.edu.sa Thank you very much! 
 
 
 ### Biogrophy
